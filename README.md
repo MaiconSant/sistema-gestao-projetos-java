@@ -1,5 +1,7 @@
 # Sistema de Eventos em Java
 
+## 00 - 22/03/2026
+
 Projeto da disciplina de Programação de Soluções Computacionais.
 
 ## Funcionalidades
@@ -7,5 +9,3 @@ Projeto da disciplina de Programação de Soluções Computacionais.
 - Participação
 - Cancelamento
 - Listagem de eventos
-
-## 00 - 22/03/2026
